@@ -62,7 +62,4 @@ df = pd.read_csv('BMWSales2010-2024.csv')
 | SalesClassification | High/Low sales indicator     |
 
 ## Author
-Your Name
-
-## License
-This project is released under the MIT License.
+Mokshit Sharma
