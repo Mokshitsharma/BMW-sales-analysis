@@ -1,5 +1,20 @@
-# BMW Sales Data Analysis (2010-2024)
+<!-- readme-refresh 2026-11 -->
+<div align="center">
 
+# 🚗 BMW Sales Analysis
+
+**Worldwide BMW sales 2010–2024: EDA and a Power BI dashboard**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+</div>
+
+## ✨ Highlights
+
+- Cleaning and EDA of 2010–2024 sales
+- Power BI dashboard (`BMW sales dashboard.pbix`)
+
+<!-- body -->
 ## Project Overview
 This project is a data analysis and visualization application for BMW sales from 2010 to 2024. The core dataset includes model details, sales volume, price, engine specs, and sales classifications across multiple regions. The analysis leverages Python and powerful data visualization libraries to uncover trends, top-selling models, and regional performance for BMW vehicles.[1]
 
@@ -63,3 +78,7 @@ df = pd.read_csv('BMWSales2010-2024.csv')
 
 ## Author
 Mokshit Sharma
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
